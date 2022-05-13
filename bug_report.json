@@ -1,1 +1,7 @@
-
+{
+  "Preconditions":"Go to the https://ostrov_shop.by",
+  "Steps":{"Step 1":"Click on the "Войти" button",
+           "Step 2":"Click on the "Регистрация" button",
+           "Step 3":"Fill in all required fields"}
+  "Actual result":"Required fields not marked"
+}
